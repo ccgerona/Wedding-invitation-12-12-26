@@ -5,6 +5,9 @@
   --green: #526b57;
   --dark: #303b32;
   --gold: #b69a6b;
+  --dustyblue: #91acc6;
+  --deepnavy: #2f3e4e;
+  --slateblue: #597a9a;
 }
 
 * {
@@ -95,7 +98,7 @@ h3 {
 
 .button {
   display: inline-block;
-  background: var(--green);
+  background: var(--slateblue);
   color: white;
   padding: 12px 28px;
   margin-top: 16px;
@@ -157,7 +160,7 @@ h3 {
 
 footer {
   padding: 30px 20px;
-  background: var(--green);
+  background: var(--dustyblue);
   color: white;
   font-size: 12px;
 }
